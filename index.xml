@@ -62,12 +62,12 @@
     </item>
     
     <item>
-      <title>Ejemplo Shortcodes</title>
-      <link>https://michellealarcon.github.io/docs/ejemplo/</link>
+      <title>ENCARGO 6</title>
+      <link>https://michellealarcon.github.io/docs/encargo6/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://michellealarcon.github.io/docs/ejemplo/</guid>
-      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
+      <guid>https://michellealarcon.github.io/docs/encargo6/</guid>
+      <description>Ejercicio de Diseño Generativo en Fusion360.</description>
     </item>
     
     <item>
@@ -77,6 +77,15 @@
       
       <guid>https://michellealarcon.github.io/docs/markdown/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>Ejemplo Shortcodes</title>
+      <link>https://michellealarcon.github.io/docs/ejemplo/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://michellealarcon.github.io/docs/ejemplo/</guid>
+      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
     </item>
     
   </channel>
