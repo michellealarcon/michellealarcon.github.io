@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Taller Espacio y Ciudad 2021 on Michelle Alarcón</title>
-    <link>https://michellealarcon.github.io/docs/</link>
+    <link>https://michellealarcon.github.io/taller-ciudad-espacio/docs/</link>
     <description>Recent content in Taller Espacio y Ciudad 2021 on Michelle Alarcón</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="https://michellealarcon.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="https://michellealarcon.github.io/taller-ciudad-espacio/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>ENCARGO 1</title>
-      <link>https://michellealarcon.github.io/docs/e1/</link>
+      <title>ENCARGO 0</title>
+      <link>https://michellealarcon.github.io/taller-ciudad-espacio/docs/e0/</link>
       <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
-      <guid>https://michellealarcon.github.io/docs/e1/</guid>
+      <guid>https://michellealarcon.github.io/taller-ciudad-espacio/docs/e0/</guid>
+      <description>Investigación tema proyecto.</description>
+    </item>
+    
+    <item>
+      <title>ENCARGO 1</title>
+      <link>https://michellealarcon.github.io/taller-ciudad-espacio/docs/e1/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
+      
+      <guid>https://michellealarcon.github.io/taller-ciudad-espacio/docs/e1/</guid>
       <description>Avance tema proyecto.</description>
     </item>
     
     <item>
       <title>ENCARGO 2</title>
-      <link>https://michellealarcon.github.io/docs/e2/</link>
+      <link>https://michellealarcon.github.io/taller-ciudad-espacio/docs/e2/</link>
       <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
-      <guid>https://michellealarcon.github.io/docs/e2/</guid>
-      <description>Dibujos aproximación del proyecto.</description>
+      <guid>https://michellealarcon.github.io/taller-ciudad-espacio/docs/e2/</guid>
+      <description>Dibujos primera aproximación del proyecto.</description>
     </item>
     
     <item>
       <title>ENCARGO 3</title>
-      <link>https://michellealarcon.github.io/docs/e3/</link>
+      <link>https://michellealarcon.github.io/taller-ciudad-espacio/docs/e3/</link>
       <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
-      <guid>https://michellealarcon.github.io/docs/e3/</guid>
-      <description>Propuesta de valor.</description>
-    </item>
-    
-    <item>
-      <title>ENCARGO 4</title>
-      <link>https://michellealarcon.github.io/docs/e4/</link>
-      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
-      
-      <guid>https://michellealarcon.github.io/docs/e4/</guid>
+      <guid>https://michellealarcon.github.io/taller-ciudad-espacio/docs/e3/</guid>
       <description>Diseño Sistémico.</description>
     </item>
     
     <item>
-      <title>ENCARGO 5</title>
-      <link>https://michellealarcon.github.io/docs/e5/</link>
+      <title>ENCARGO 4</title>
+      <link>https://michellealarcon.github.io/taller-ciudad-espacio/docs/e4/</link>
       <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
-      <guid>https://michellealarcon.github.io/docs/e5/</guid>
-      <description>Modelado 3D.</description>
+      <guid>https://michellealarcon.github.io/taller-ciudad-espacio/docs/e4/</guid>
+      <description>Modelos Propuesta.</description>
     </item>
     
     <item>
-      <title>ENCARGO 6</title>
-      <link>https://michellealarcon.github.io/docs/e6/</link>
+      <title>ENCARGO 5</title>
+      <link>https://michellealarcon.github.io/taller-ciudad-espacio/docs/e5/</link>
       <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
-      <guid>https://michellealarcon.github.io/docs/e6/</guid>
+      <guid>https://michellealarcon.github.io/taller-ciudad-espacio/docs/e5/</guid>
       <description>Presentación MIDTERM.</description>
     </item>
     
     <item>
       <title>Ejemplos Markdown</title>
-      <link>https://michellealarcon.github.io/docs/markdown/</link>
+      <link>https://michellealarcon.github.io/taller-ciudad-espacio/docs/markdown/</link>
       <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
-      <guid>https://michellealarcon.github.io/docs/markdown/</guid>
+      <guid>https://michellealarcon.github.io/taller-ciudad-espacio/docs/markdown/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
     <item>
       <title>Ejemplo Shortcodes</title>
-      <link>https://michellealarcon.github.io/docs/ejemplo/</link>
+      <link>https://michellealarcon.github.io/taller-ciudad-espacio/docs/ejemplo/</link>
       <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
-      <guid>https://michellealarcon.github.io/docs/ejemplo/</guid>
+      <guid>https://michellealarcon.github.io/taller-ciudad-espacio/docs/ejemplo/</guid>
       <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
     </item>
     
