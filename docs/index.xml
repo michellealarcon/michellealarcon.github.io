@@ -1,142 +1,70 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Taller Integrado MID 2021 on Michelle Alarcón - MID 2021</title>
+    <title>Taller Espacio y Ciudad 2021 on Michelle Alarcón</title>
     <link>https://michellealarcon.github.io/docs/</link>
-    <description>Recent content in Taller Integrado MID 2021 on Michelle Alarcón - MID 2021</description>
+    <description>Recent content in Taller Espacio y Ciudad 2021 on Michelle Alarcón</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="https://michellealarcon.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>ENCARGO 0</title>
-      <link>https://michellealarcon.github.io/docs/post-inicial/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://michellealarcon.github.io/docs/post-inicial/</guid>
-      <description>Sobre mi y algunos trabajos personales.</description>
-    </item>
-    
-    <item>
       <title>ENCARGO 1</title>
-      <link>https://michellealarcon.github.io/docs/encargo1/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      <link>https://michellealarcon.github.io/docs/e1/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
-      <guid>https://michellealarcon.github.io/docs/encargo1/</guid>
-      <description>Planos de luz.</description>
+      <guid>https://michellealarcon.github.io/docs/e1/</guid>
+      <description>Avance tema proyecto.</description>
     </item>
     
     <item>
       <title>ENCARGO 2</title>
-      <link>https://michellealarcon.github.io/docs/encargo2/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      <link>https://michellealarcon.github.io/docs/e2/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
-      <guid>https://michellealarcon.github.io/docs/encargo2/</guid>
-      <description>Animaciones de luz.</description>
+      <guid>https://michellealarcon.github.io/docs/e2/</guid>
+      <description>Dibujos aproximación del proyecto.</description>
     </item>
     
     <item>
       <title>ENCARGO 3</title>
-      <link>https://michellealarcon.github.io/docs/encargo3/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      <link>https://michellealarcon.github.io/docs/e3/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
-      <guid>https://michellealarcon.github.io/docs/encargo3/</guid>
-      <description>Animaciones de luz.</description>
+      <guid>https://michellealarcon.github.io/docs/e3/</guid>
+      <description>Propuesta de valor.</description>
     </item>
     
     <item>
       <title>ENCARGO 4</title>
-      <link>https://michellealarcon.github.io/docs/encargo4/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      <link>https://michellealarcon.github.io/docs/e4/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
-      <guid>https://michellealarcon.github.io/docs/encargo4/</guid>
-      <description>Video volumenes de luz.</description>
+      <guid>https://michellealarcon.github.io/docs/e4/</guid>
+      <description>Diseño Sistémico.</description>
     </item>
     
     <item>
       <title>ENCARGO 5</title>
-      <link>https://michellealarcon.github.io/docs/encargo5/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      <link>https://michellealarcon.github.io/docs/e5/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
-      <guid>https://michellealarcon.github.io/docs/encargo5/</guid>
-      <description>Tutoriales Fusion360.</description>
+      <guid>https://michellealarcon.github.io/docs/e5/</guid>
+      <description>Modelado 3D.</description>
     </item>
     
     <item>
       <title>ENCARGO 6</title>
-      <link>https://michellealarcon.github.io/docs/encargo6/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      <link>https://michellealarcon.github.io/docs/e6/</link>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
-      <guid>https://michellealarcon.github.io/docs/encargo6/</guid>
-      <description>Ejercicio de Diseño Generativo en Fusion360.</description>
-    </item>
-    
-    <item>
-      <title>ENCARGO 7</title>
-      <link>https://michellealarcon.github.io/docs/encargo7/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://michellealarcon.github.io/docs/encargo7/</guid>
-      <description>Ejercicio de Piping.</description>
-    </item>
-    
-    <item>
-      <title>ENCARGO 8</title>
-      <link>https://michellealarcon.github.io/docs/encargo8/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://michellealarcon.github.io/docs/encargo8/</guid>
-      <description>Electromovilidad</description>
-    </item>
-    
-    <item>
-      <title>ENCARGO 9</title>
-      <link>https://michellealarcon.github.io/docs/encargo9/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://michellealarcon.github.io/docs/encargo9/</guid>
-      <description>Avance examen.</description>
-    </item>
-    
-    <item>
-      <title>ENCARGO 10</title>
-      <link>https://michellealarcon.github.io/docs/encargo10/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://michellealarcon.github.io/docs/encargo10/</guid>
-      <description>Ejercicio Fusion360.</description>
-    </item>
-    
-    <item>
-      <title>ENCARGO 11</title>
-      <link>https://michellealarcon.github.io/docs/encargo11/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://michellealarcon.github.io/docs/encargo11/</guid>
-      <description>Avance examen.</description>
-    </item>
-    
-    <item>
-      <title>Examen Final</title>
-      <link>https://michellealarcon.github.io/docs/examen/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://michellealarcon.github.io/docs/examen/</guid>
-      <description>Examen Final Electromovilidad.</description>
-    </item>
-    
-    <item>
-      <title>Software Creativo</title>
-      <link>https://michellealarcon.github.io/docs/software/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
-      
-      <guid>https://michellealarcon.github.io/docs/software/</guid>
-      <description>Tutorial de video 360 en Blender.</description>
+      <guid>https://michellealarcon.github.io/docs/e6/</guid>
+      <description>Presentación MIDTERM.</description>
     </item>
     
     <item>
       <title>Ejemplos Markdown</title>
       <link>https://michellealarcon.github.io/docs/markdown/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
       <guid>https://michellealarcon.github.io/docs/markdown/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
@@ -145,7 +73,7 @@
     <item>
       <title>Ejemplo Shortcodes</title>
       <link>https://michellealarcon.github.io/docs/ejemplo/</link>
-      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      <pubDate>Mon, 17 May 2021 19:30:08 +1000</pubDate>
       
       <guid>https://michellealarcon.github.io/docs/ejemplo/</guid>
       <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
